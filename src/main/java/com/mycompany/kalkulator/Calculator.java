@@ -58,7 +58,7 @@ public class Calculator {
                 result = calculator.divide(num1, num2);
                 break;
             default:
-                System.out.println("Invalid operation");
+                System.out.println("Invalid");
                 return;
         }
 
